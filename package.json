@@ -1,0 +1,29 @@
+{
+  "name": "hat-node-sdk",
+  "version": "0.1.0",
+  "description": "HAT API wrapper for easy integration with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hub-of-all-Things/hat-node-sdk.git"
+  },
+  "keywords": [
+    "node",
+    "hat",
+    "api",
+    "sdk"
+  ],
+  "author": "Augustinas Markevicius <augustinas.markevicius@hatdex.org> (http://www.hatdex.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hub-of-all-Things/hat-node-sdk/issues"
+  },
+  "homepage": "https://github.com/Hub-of-all-Things/hat-node-sdk#readme",
+  "dependencies": {
+    "qs": "^6.1.0",
+    "request": "^2.72.0"
+  }
+}
