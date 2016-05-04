@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Hub-of-all-Things/hat-node-sdk#readme",
   "dependencies": {
+    "lodash": "^4.11.2",
     "qs": "^6.1.0",
     "request": "^2.72.0"
   }
