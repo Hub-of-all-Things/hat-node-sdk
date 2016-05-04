@@ -4,7 +4,7 @@
   "description": "HAT API wrapper for easy integration with Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,9 @@
     "lodash": "^4.11.2",
     "qs": "^6.1.0",
     "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }

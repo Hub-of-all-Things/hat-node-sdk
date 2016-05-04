@@ -1,0 +1,14 @@
+{
+  "description": "Best event in my life!",
+  "name": "Christmas dinner",
+  "place": {
+    "name": "Cosy restaurant in London center",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom",
+      "latitude": 51.507222,
+      "longitude": -0.1275
+    }
+  },
+  "rsvp_status": "attending"
+}
