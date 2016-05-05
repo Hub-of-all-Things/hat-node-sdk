@@ -1,0 +1,60 @@
+[
+  {
+    "record": { "name": "givenString" },
+    "values":
+    [{
+      "value": "Best event in my life!",
+      "field": { "name": "description", "id": 1 }
+    }, {
+      "value": "Christmas dinner",
+      "field": { "name": "name", "id": 2 }
+    }, {
+      "value": "Cosy restaurant in London center",
+      "field": { "name": "name", "id": 3 }
+    }, {
+      "value": "London",
+      "field": { "name": "city", "id": 4 }
+    }, {
+      "value": "United Kingdom",
+      "field": { "name": "country", "id": 5 }
+    }, {
+      "value": 51.507222,
+      "field": { "name": "latitude", "id": 6 }
+    }, {
+      "value": -0.1275,
+      "field": { "name": "longitude", "id": 7 }
+    }, {
+      "value": "attending",
+      "field": { "name": "rsvp_status", "id": 8 }
+    }]
+  },
+  {
+    "record": { "name": "givenString" },
+    "values":
+    [{
+      "value": "Best event in my life!",
+      "field": { "name": "description", "id": 1 }
+    }, {
+      "value": "Christmas dinner",
+      "field": { "name": "name", "id": 2 }
+    }, {
+      "value": "Cosy restaurant in London center",
+      "field": { "name": "name", "id": 3 }
+    }, {
+      "value": "London",
+      "field": { "name": "city", "id": 4 }
+    }, {
+      "value": "United Kingdom",
+      "field": { "name": "country", "id": 5 }
+    }, {
+      "value": 51.507222,
+      "field": { "name": "latitude", "id": 6 }
+    }, {
+      "value": -0.1275,
+      "field": { "name": "longitude", "id": 7 }
+    }, {
+      "value": "attending",
+      "field": { "name": "rsvp_status", "id": 8 }
+    }]
+  }
+]
