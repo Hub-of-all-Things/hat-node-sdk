@@ -2,7 +2,7 @@
 
 Hat-node-sdk is a nodejs module that provides an easy access to the HAT API from node application.
 
-Version: 0.1.1
+Version: 0.1.2
 
 License: AGPL
 
@@ -26,10 +26,12 @@ var client = new hat.Client('http://hat.hubofallthings.net', accessToken);
 
 Currently available methods:
 
+- getAllDataSources(callback)
 - getDataSourceId(name, source, callback)
 - getDataSourceModel(dataSourceId, callback)
 - createDataSourceModel(model, callback)
 - createMultipleRecords(recordData, callback)
+- getOrCreateTable(name, source, model, callback)
 
 ## Utility methods
 
