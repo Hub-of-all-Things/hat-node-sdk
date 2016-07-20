@@ -2,7 +2,7 @@
 
 Hat-node-sdk is a nodejs module that provides an easy access to the HAT API from node application.
 
-Version: 0.1.2
+Version: 0.1.3
 
 License: AGPL
 
